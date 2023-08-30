@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+body {
+  background: url(../images/kelly-sikkema-6aY-6B3MiZ4-unsplash.jpg) no-repeat
+    center center/cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
